@@ -2,7 +2,6 @@
     <queries>
         <intent>
             <action android:name="android.intent.action.VIEW" />
-            <category android:name="android.intent.category.BROWSABLE" />
         </intent>
     </queries>
 </manifest>
